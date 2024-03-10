@@ -88,3 +88,14 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 # Mentioning people and teams:
 @github/support What do you think about these updates?
 
+
+
+# Footnotes:
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+

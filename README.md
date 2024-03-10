@@ -1,5 +1,4 @@
 # Headings:
-
 # Heading1
 ## Heading2
 ### Heading3
@@ -10,23 +9,31 @@
 ### Bold:
 **This text is bold**
 
+
+
 ### Italic:
 _This text is italicized_
 
+
+
 ### Strkethrough:
 ~~This text is mistaken~~
+
 
 
 ### Bold and nested italic:
 **This text is _extremely_ important**
 
 
+
 ### All bold and italic:
 ***All this text is important***
 
 
+
 ### Subscript:
 This is a <sub>subscript</sub> text
+
 
 ### Superscript:
 This is a <sup>superscript</sup> text
@@ -45,6 +52,7 @@ print a + b
 ```
 
 
+
 # Links:
 This site was built using [GitHub Pages](https://pages.github.com/).
 
@@ -54,6 +62,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 ![My Cat](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
+
 # Lists:
 ### Unordered list:
 - Newyork
@@ -61,10 +70,12 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 + Paris
 
 
+
 ### Ordered list:
 1. James Madison
 2. James Monroe
 3. John Quincy Adams
+
 
 
 ### Nested list

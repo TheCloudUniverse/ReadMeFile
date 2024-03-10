@@ -17,3 +17,7 @@ _This text is italicized_
 
 ### Strikethrough:
 ~~This was mistaken text~~
+
+
+### Bold and nested italic:
+**This text is _extremely_ important**

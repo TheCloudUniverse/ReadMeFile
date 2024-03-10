@@ -116,3 +116,9 @@ A footnote can also have multiple lines[^2].
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+
+
+
+# Using emojis:
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:

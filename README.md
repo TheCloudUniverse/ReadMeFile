@@ -50,6 +50,10 @@ print a + b
 
 
 
-# Supported color models
-The background color is 'rgb(9, 105, 218)' for light mode and `#000000` for dark mode.
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+# Links:
+This site was built using [GitHub Pages](https://pages.github.com/).
+
+
+
+# Images:
+![My Cat](https://myoctocat.com/assets/images/base-octocat.svg)

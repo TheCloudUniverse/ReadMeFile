@@ -34,3 +34,12 @@ This is a <sup>superscript</sup> text
 
 # Quoting text:
 > Text that is a quote
+
+
+
+# Quoting code:
+```
+int a=10
+int b=20
+print a + b
+```

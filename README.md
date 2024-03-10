@@ -25,3 +25,8 @@ _This text is italicized_
 ***All this text is important***
 
 
+### Subscript:
+This is a <sub>subscript</sub> text
+
+### Superscript:
+This is a <sup>superscript</sup> text

@@ -12,3 +12,6 @@
 
 ### Italic:
 _This text is italicized_
+
+### Strkethrough:
+~~This text is mistaken~~

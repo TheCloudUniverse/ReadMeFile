@@ -12,3 +12,8 @@
 
 ### Italic:
 _This text is italicized_
+
+
+
+### Strikethrough:
+~~This was mistaken text~~

@@ -32,3 +32,7 @@ This is a <sub>subscript</sub> text
 
 ### Superscript:
 This is a <sup>superscript</sup> text
+
+
+# Quoting text:
+> Text that is a quote

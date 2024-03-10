@@ -51,5 +51,5 @@ print a + b
 
 
 # Supported color models
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+The background color is `rgb(9, 105, 218)` for light mode and `#000000` for dark mode.
 The background color is `#ffffff` for light mode and `#000000` for dark mode.

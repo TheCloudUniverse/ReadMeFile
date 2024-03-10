@@ -101,3 +101,11 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+
+
+# Using emojis:
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+
+[All the emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
